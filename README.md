@@ -2,7 +2,9 @@
 
 A real-time crypto watchlist with a live candlestick chart, built with **React, TypeScript and WebSockets**.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://live-watchlist-tau.vercel.app/
+
+
 
 ## Features
 
